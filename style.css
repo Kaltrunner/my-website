@@ -4,7 +4,6 @@ html {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    text-align: ;
     background: none;
 }
 
@@ -83,4 +82,7 @@ img {
     display: block;
     margin: auto;
     width: 350px;
+}
+.kalt:hover {
+    cursor: pointer;
 }
